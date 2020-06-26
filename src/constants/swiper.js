@@ -1,0 +1,1 @@
+export const SWIPER_ACTIVE_DOT_COLOR = '#B93B88';
